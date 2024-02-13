@@ -29,4 +29,8 @@ git log
 
 git log --oneline --all --graph
 
->    sss 
+>  깃 상태 변경(세이브포인트 변경)
+git checkout 커밋아이디
+git checkout master
+
+Q. 테스트 작업 중 (커밋 메세지 생성)
